@@ -1,0 +1,60 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{./images/photo.jpg}{profile pic}{200px}{}{}
+= Denis Gorodkov \n
+=== Postdoctoral research scholar at the Department of Mathematics at the University of Toronto\n
+
+Page under construction.
+
+== Education
+
+-  *Steklov Mathematical Institue of Russian Academy of Sciences* 2015 -- 2019\n
+ PhD in mathematics\n
+ Department of Geometry and Topology\n
+ Scientific advisor: Prof. Alexander A. Gaifullin\n
+ Thesis topic: ``Explicit combinatorial computation of the first Pontryagin class and applications''\n
+
+-  *Skolkovo Institute of Science and Technology* 2016 -- 2020\n
+ PhD in mathematics\n
+ Center of Advanced Sciences\n
+ Scientific advisor: Prof. Alexander A. Gaifullin\n
+
+-  *Lomonosov Moscow State University* 2010 -- 2015\n
+ Specialist degree in mathematics (Master equivalent), GPA: 4.8/5, Diploma cum laude\n
+ Department of Mechanics and Mathematics\n
+ Major in Higher Geometry and Topology\n
+ Scientific advisor: Prof. Alexander Gaifullin\n
+ Diploma topic: ``Computation of the Pontryagin classes of some triangulated 8-dimensional manifolds''\n
+
+
+== Employment
+
+=== Academia
+- 2022 -- present *Department of Mathematics, University of Toronto*, Postdoctoral research scholar 
+- 2021 -- 2022 *Steklov Mathematical Institute of RAS*, Postdoctoral student 
+- 2017 -- 2018 *Steklov Mathematical Institute of RAS*, Research fellow
+
+=== Teaching
+- 2019 -- present *Russian School of Mathematics*, Competition mathematics teacher and curriculum designer
+- 2016 -- 2018 *Moscow State University Gymnasium*, High school advanced mathematics teacher 
+
+=== Industry
+- 2020 -- 2021 Huawei, Big graph algorithm engineer
+
+== Publications
+
+D. G. *A minimal triangulation of the quaternionic projective plane*, /Russian Mathematical Surveys/ (2016), 71 (6):1140. [http://dx.doi.org/10.1070/RM9726/ DOI]\n
+D. G. *A 15-vertex triangulation of the quaternionic projective plane*, /Discrete & Computational Geometry, Springer/ (2019) 62: 348. [https://doi.org/10.1007/s00454-018-00055-w/ DOI], [https://arxiv.org/abs/1603.05541/ arXiv]\n
+A. Gaifullin, D. G. *An explicit local combinatorial formula for the first Pontryagin class*, /Russian Mathematical Surveys/ (2019),  74 (6): 450.  [https://doi.org/10.4213/rm9920/ DOI]\n
+
+
+
+== Funding and academic awards
+
+- *2014 -- 2015* Special stipend provided to best students of Lomonosov MSU
+- *2015* Absolute winner of [http://www.moebiuscontest.ru/contest-2015-en.html/ August M\"{o}bius Contest for young mathematicians works] among undergraduate students 
+- *2016* Winner of Contest [http://ium.mccme.ru/rym/2016/winners-english.html/ ``Young Russian Mathematics'']
+- *2014 -- 2015* Co-executor of Presidential grant (under the direction of Prof. Alexander Gaifullin) for young Doctors of Sciences MD-2969.2014.1 ``Geometry of flexible polyhedra'' 
+- *2017 -- 2018* Co-executor of Presidential grant for young Doctors of Sciences MD-2907.2017.1 ``Characteristic classes of surface bundles and cohomology of the mapping class group and its subgroups''
+- *2016 -- 2018* Participant of the RSF grant 14-50-00005 ``Modern mathematics and applications''
